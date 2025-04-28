@@ -1,5 +1,8 @@
 # HDEMG_ForceAngle
 
+[![Video](./cover.jpg)](./demo.mp4)
+
+
 ### Pseudo-Online Validation Script
 
 1. This repository provides a pseudo-online validation script for evaluating real-time prediction performance.
@@ -9,3 +12,5 @@
    After downloading, extract and move the data into the `offline` folder located in the main directory of the project.
 
 3. To run the pseudo-online prediction, launch the GUI and sequentially click the **"Configure"**, **"Template"**, and **"Offline"** buttons. This will initiate real-time emulation of the prediction process based on offline data.
+
+
